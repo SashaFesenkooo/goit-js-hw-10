@@ -18,3 +18,26 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+ul {
+  list-style: none;
+}
+
+.img {
+  width: 200px;
+  height: 100px;
+}
+
+.list {
+  font-size: 30px;
+}
+
+.country-list {
+  margin: 0;
+  padding: 0;
+}
+
+.img_list {
+  width: 50px;
+  height: 30px;
+}
